@@ -1,23 +1,20 @@
 # Brian Jeong
+<p align="center">
+	<a href="https://github.com/bjjeong"><img src="https://img.shields.io/github/followers/bjjeong.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/brianjeong1"><img src="https://img.shields.io/twitter/follow/brianjeong1?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/bjjeong"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
 Hi, I'm Brian (he/his) — a front-end engineer at Bilt working on the Android & iOS applications. I was born in South Korea, raised in Michigan, and currently live in NYC.
 
 ## Random facts
 🍿 My favorite movie is Saving Private Ryan<br/>
 🥪 One food I could eat every day and not get sick of is peanut-butter & banana sandwiches<br/>
-🌱 No matter how hard I try, I can't keep my plants alive<br/>
-👨‍⚕️ I used to want to be an anesthesiologist (as a kid I looked for high-paying jobs...)<br/>
 🍭 Unpopular choice, but I really love Dots candy<br/>
-🍉 I enjoy quality fruit over quality meat
 
 ## My interests
-👨‍💻 Coding (duh)<br/>
+👨‍💻 Coding<br/>
 🏀 Playing sports<br/>
 📸 Taking photos<br/>
 📱 Tech/Gadgets<br/>
 👿 Horror movies
-
-## Get in touch
-- Personal site: https://elbrian.com/
-- Instagram: https://instagram.com/bjjeong
-- Twitter: https://twitter.com/brianjeong1
-- LinkedIn: https://linkedin.com/in/bjjeong
